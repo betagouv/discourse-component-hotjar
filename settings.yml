@@ -1,0 +1,4 @@
+hotjar_id:
+    type: string
+    default: ''
+    description: Hotjar ID

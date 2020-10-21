@@ -1,0 +1,6 @@
+{
+"name": "Hotjar",
+"about_url": "",
+"license_url": "https://github.com/discourse/discourse-matomo-analytics/blob/master/LICENSE",
+"component": true
+}
