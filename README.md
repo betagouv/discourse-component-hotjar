@@ -7,7 +7,7 @@ Une dernière étape ! Connectez-vous sur Hotjar et récupérez le _site ID_.
 
 ![Copie d'écran explicative](hotjar.png)
 
-Collez cet identifiant dans Paramètres de thème > site id. Puis incluez le composant à votre thème et attendez quelques minutes. 
+Collez cet identifiant dans Paramètres de thème > hotjar site id. Puis incluez le composant à votre thème et attendez quelques minutes. 
 
 Vérifier que l'installation a réussi est très simple. Il vous suffit d'ajouter le paramètre `?hjVerifyInstall=siteID` à votre url, en remplaçant bien entendu `siteID` par la véritable valeur.
 
