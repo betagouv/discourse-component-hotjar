@@ -1,4 +1,4 @@
-hotjar_id:
+site_id:
     type: string
     default: ''
-    description: Hotjar ID
+    description: Site ID
